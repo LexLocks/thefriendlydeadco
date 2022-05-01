@@ -133,7 +133,8 @@
   <a href="#" class="active">Home</a>
   <a href="#">Meet The Artists</a>
   <a href="#">Shop</a>
-	<a href="ContactUs.html" class="right">Contact Us</a>
+	<a href="#" class="right">Contact Us</a> 
+	<a href="ContactUs.html"></a>
 
 </div>
 
@@ -166,7 +167,7 @@
   <input type="submit" value="Submit">
 </form> 
 		
-	  </div>
+    </div>
 	  <br>
   
   </div>
